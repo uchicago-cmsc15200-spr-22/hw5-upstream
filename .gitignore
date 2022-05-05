@@ -1,0 +1,8 @@
+results.json
+results.log
+student_test_homework5
+test_homework5
+*.dSYM
+*~
+.DS_Store
+test-*.txt
